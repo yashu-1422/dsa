@@ -1,0 +1,6 @@
+# Ignore IntelliJ specific files
+.idea/
+*.iml
+out/
+target/
+cmake-build-debug/
